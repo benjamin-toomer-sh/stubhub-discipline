@@ -1,18 +1,20 @@
-[
-  {
-    "id": "1",
-    "price": "100.00",
-    "section": "balcony",
-    "row": "1",
-    "seat": "A",
-    "url": "/listing/1"
-  },
-  {
-    "id": "2",
-    "price": "200.12",
-    "section": "grand circle",
-    "row": "1",
-    "seat": "A",
-    "url": "/listing/2"
-  }
-]
+{
+  "tickets": [
+    {
+      "id": "1",
+      "price": "100.00",
+      "section": "balcony",
+      "row": "1",
+      "seat": "A",
+      "url": "/listing/1"
+    },
+    {
+      "id": "2",
+      "price": "200.12",
+      "section": "grand circle",
+      "row": "1",
+      "seat": "A",
+      "url": "/listing/2"
+    }
+  ]
+}
